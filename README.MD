@@ -1,2 +1,4 @@
 THIS IS A TEST !!
-another line adding
+\nanother line adding
+\nanother line
+
