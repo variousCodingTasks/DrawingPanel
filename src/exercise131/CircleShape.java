@@ -6,7 +6,7 @@ import java.awt.Point;
 
 /**
  * a class which specifies how a circle should be painted on the drawing panel.
- * another line
+ * test line
  */
 public class CircleShape extends ShapeDrawn{
 
